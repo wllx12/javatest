@@ -8,4 +8,7 @@ package com.wllx;
  * @Tel/QQ: 691033
  */
 public class MainTest {
+    public static void main(String[] args) {
+
+    }
 }
